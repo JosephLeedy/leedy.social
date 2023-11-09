@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Leedy.social
+description: Leedy social media
+include: [".well-known"]
