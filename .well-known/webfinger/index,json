@@ -1,0 +1,23 @@
+{
+  "subject": "acct:JosephLeedy@phpc.social",
+  "aliases": [
+    "https://phpc.social/@JosephLeedy",
+    "https://phpc.social/users/JosephLeedy"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://phpc.social/@JosephLeedy"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://phpc.social/users/JosephLeedy"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://phpc.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
